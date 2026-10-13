@@ -6,7 +6,7 @@ I write computational physics simulations and games from time to time!
 
 - **[Osseus Engine](https://github.com/Mightysmallfry/OsseusEngine)** — a C++ rigidbody physics engine built for both scientific simulation and game development, with runtime-swappable integrators (Euler-Cromer, RK4) so you can trade speed for accuracy.
 
-## Languages
+## Languages/Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
