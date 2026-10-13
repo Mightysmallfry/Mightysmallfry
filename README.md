@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mightysmallfry
 
-<!--
-**Mightysmallfry/Mightysmallfry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write computational physics simulations and games from time to time!
 
-Here are some ideas to get you started:
+## Showcase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Osseus Engine](https://github.com/Mightysmallfry/OsseusEngine)** — a C++ rigidbody physics engine built for both scientific simulation and game development, with runtime-swappable integrators (Euler-Cromer, RK4) so you can trade speed for accuracy.
+
+## Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## Github Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Mightysmallfry&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mightysmallfry&layout=compact)
